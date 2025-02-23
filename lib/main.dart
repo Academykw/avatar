@@ -13,7 +13,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
 
-     home: Avatar()
+     home: Avatar(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }

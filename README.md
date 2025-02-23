@@ -1,6 +1,6 @@
 # untitled
 
-A new Flutter project.
+a flutter project that display two avatar from ready player me 
 
 ## Getting Started
 
